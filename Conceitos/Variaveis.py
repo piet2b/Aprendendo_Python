@@ -1,7 +1,8 @@
-chacter_name = "Jhon"
-chacter_age = "40"
+character_name = "Jhon"
+character_age = "40"
+is_male = True
 
-print("There once was a man named " + chacter_name + ",")
-print("he was " + chacter_age + " years old.")
-print("He liked being " + chacter_name + ",")
-print("But he didnt like being " + chacter_age + ".")
+print("There once was a man named " + character_name + ",")
+print("he was " + character_age + " years old.")
+print("He liked being " + character_name + ",")
+print("But he didnt like being " + character_age + ".")
